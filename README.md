@@ -16,7 +16,11 @@ Contact no:<input type="number"><br><br>
 Email Address:<input type="text"><br>
 Password:<input type="password">
 <center><a href="https://manganba.github.io/">View details</a></h2><br>
-<a href="submit form.html"><button type="button"><h1><center>Submit</center></h1></a>
+<a href="submit form.html"><button type="button"><h1><center>Submit</center>
+  
+  </h1></a>
+  
+  
 </form>
 </body>
 </html>
