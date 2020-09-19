@@ -15,7 +15,7 @@ Mother's name:<input type="text"><br>
 Contact no:<input type="number"><br><br>
 Email Address:<input type="text"><br>
 Password:<input type="password">
-<center><a href="https://manganba.github.io/">View details</a></h2><br>
+<center><a href="https://manganba.github.io/">View details</a><br>
 <a href="https://manganba.github.io/"><button type="button"><h1><center>Submit</center>
   
-  </h1></a>
+  </h1>
