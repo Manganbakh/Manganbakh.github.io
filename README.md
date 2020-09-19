@@ -1,6 +1,6 @@
 <html>
 <body background=" C:\Users\Basanta\Documents\background image.png">
-<center><h1>Submissiobn</h1></center>
+<center><h1>Submission</h1></center>
 <form><h2>
 Name:<input type="text"><br>
 Class:<input type="number"><br>
